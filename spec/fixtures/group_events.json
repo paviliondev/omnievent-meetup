@@ -1,0 +1,78 @@
+{
+  "data": {
+    "groupByUrlname": {
+      "unifiedEvents": {
+        "count": 4,
+        "pageInfo": {
+          "endCursor": "Mjg4MjExMDY1OjE2NjUwOTcyMDAwMDA="
+        },
+        "edges": [
+          {
+            "node": {
+              "id": "285252367",
+              "title": "“Aix-pat” cocktails at Céleste’s Aix-en-Provence",
+              "description": "",
+              "dateTime": "2022-05-05T19:00+02:00",
+              "endTime": "2022-05-05T21:00+02:00",
+              "eventUrl": "https://www.meetup.com/aix-en-provence/events/285252367",
+              "createdAt": null,
+              "status": "published",
+              "topics": {
+                "count": 5,
+                "pageInfo": {
+                  "endCursor": "NTA4ODE="
+                },
+                "edges": [
+                  {
+                    "node": {
+                      "name": "Social"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "Make New Friends"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "Expat"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "Hanging Out"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "International Friends"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "288211065",
+              "title": "“Aix-pat” cocktails at Céleste’s Aix-en-Provence",
+              "description": "",
+              "dateTime": "2022-10-06T19:00+02:00",
+              "endTime": "2022-10-06T21:00+02:00",
+              "eventUrl": "https://www.meetup.com/aix-en-provence/events/288211065",
+              "createdAt": null,
+              "status": "published",
+              "topics": {
+                "count": 0,
+                "pageInfo": {
+                  "endCursor": ""
+                },
+                "edges": []
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
